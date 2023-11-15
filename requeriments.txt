@@ -1,4 +1,0 @@
-streamlit==1.14.0
-pandas==1.3.3
-wordcloud==1.10.2
-matplotlib==3.4.3
